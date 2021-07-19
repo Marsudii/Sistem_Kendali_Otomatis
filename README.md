@@ -16,7 +16,7 @@ Tugas Akhir dengan judul "Sistem Kendali Otomatis berbasis IoT menggunakan Ardui
 ✔️ CRUD Pengguna\
 ✔️ CRUD Rumah\
 ✔️ Kontrol dan Monitoring Full Akses Admin\
-✔️ Kontrol dan Monitoring Pengguna Sesuai Token\
+✔️ Kontrol dan Monitoring Pengguna Sesuai Token
 
 ## Instalasi
 Kamu butuh [XAMPP](https://www.apachefriends.org/download.html), [VS Code](https://code.visualstudio.com/), dan [Arduino IDE](https://www.arduino.cc/en/software)\
