@@ -1,3 +1,7 @@
-# Sistem_Kendali_Otomatis
+# Sistem Kendali Otomatis
 
-Tugas Akhir
+Tugas Akhir berbasis IoT menggunakan Arduino UNO
+
+Link Template :
+
+
